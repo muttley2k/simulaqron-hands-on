@@ -5,6 +5,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/muttley2k/simulaqron-hands-on/HEAD?urlpath=lab)
 # Open in Google Colab
-- Go to [GoogleColab](https://colab.research.google.com/)
-- Enter the details of this GitHub repository
-- Select **`notebooks/Google Colab - All in One.ipynb`** to open
+1. Go to [GoogleColab](https://colab.research.google.com/)
+2. In 'File' menu, select **Open notebook**
+3. Enter the details of this GitHub repository
+4. Select **`notebooks/Google Colab - All in One.ipynb`** to open
