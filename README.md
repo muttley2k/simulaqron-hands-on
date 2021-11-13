@@ -1,7 +1,7 @@
 # Launch with Binder
-1. Click the 'launch binder' button below.
-2. Wait until it starts up JupyterLab, may take 2 minutes.
-3. Open **`notebooks/Main.ipynb`** and follow the instructions in there.
+1. Click the 'launch binder' button below
+2. Wait until it starts up JupyterLab, may take 2 minutes
+3. Open **`notebooks/Main.ipynb`** and follow the instructions in there
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/muttley2k/simulaqron-hands-on/HEAD?urlpath=lab)
 # Open in Google Colab
