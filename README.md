@@ -7,5 +7,5 @@
 # Open in Google Colab
 1. Go to [GoogleColab](https://colab.research.google.com/)
 2. In 'File' menu, select **Open notebook**
-3. Enter the details of this GitHub repository
+3. Enter the details (muttley2k) of this GitHub repository
 4. Select **`notebooks/Google Colab - All in One.ipynb`** to open
